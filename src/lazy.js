@@ -1,3 +1,5 @@
+// Lazy v0.2
+// https://github.com/jthibeaux/jasmine-lazy
 (function(global) {
   return global.lazy = function(name, func) {
     if (typeof func != 'function') {
