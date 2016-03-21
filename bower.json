@@ -1,0 +1,26 @@
+{
+  "name": "jthibeaux-jasmine-lazy",
+  "authors": [
+    "Jeremy Thibeaux <jthibeaux@gmail.com>"
+  ],
+  "description": "Lazy load context variables for jasmine specs (similar to rspec let for ruby specs).",
+  "main": "src/lazy.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jasmine",
+    "let",
+    "lazy",
+    "variables"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
